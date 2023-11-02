@@ -12,13 +12,12 @@ namespace learning_mvc.Controllers
 {
     public class EmployeeModelsController : Controller
     {
-        private readonly learning_MVC _context;
+        private readonly learning_MVC _context;//Creation of private variable for db _context and learning_MVC is db name
 
-        public EmployeeModelsController(learning_MVC context)
+        public EmployeeModelsController(learning_MVC context) //Constructor creation
         {
             _context = context;
         }
-
         // GET: EmployeeModels
         public async Task<IActionResult> Index()
         {

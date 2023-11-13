@@ -11433,11 +11433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\netproject\\learning-mvc\\learning-mvc\\learning-mvc.csproj",
+      "projectUniqueName": "D:\\netproject\\learning-mvc-net\\learning-mvc\\learning-mvc.csproj",
       "projectName": "learning-mvc",
-      "projectPath": "D:\\netproject\\learning-mvc\\learning-mvc\\learning-mvc.csproj",
+      "projectPath": "D:\\netproject\\learning-mvc-net\\learning-mvc\\learning-mvc.csproj",
       "packagesPath": "C:\\Users\\Apurba.Parida\\.nuget\\packages\\",
-      "outputPath": "D:\\netproject\\learning-mvc\\learning-mvc\\obj\\",
+      "outputPath": "D:\\netproject\\learning-mvc-net\\learning-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Apurba.Parida\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,61 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = learning_mvc
 build_property.RootNamespace = learning_mvc
-build_property.ProjectDir = D:\netproject\learning-mvc\learning-mvc\
+build_property.ProjectDir = D:\netproject\learning-mvc-net\learning-mvc\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\netproject\learning-mvc\learning-mvc
+build_property.MSBuildProjectDirectory = D:\netproject\learning-mvc-net\learning-mvc
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Create.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Delete.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Details.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Edit.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Index.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/EmployeeModels/Index1.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/EmployeeModels/Index1.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVNb2RlbHNcSW5kZXgxLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/Home/Index.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/Home/Privacy.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/Shared/Error.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/_ViewImports.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/_ViewStart.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/netproject/learning-mvc/learning-mvc/Views/Shared/_Layout.cshtml]
+[D:/netproject/learning-mvc-net/learning-mvc/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-tcmh4jopmb
